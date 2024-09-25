@@ -1,0 +1,17 @@
+@import url('formatos.css');
+body {
+    background-color: rebeccapurple;
+}
+header {
+    height: 60px;
+    background-color: rebeccapurple;
+}
+main {
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+    background-color: rebeccapurple;
+}
+footer {
+        height: 25px;
+        background-color: black;
+}
